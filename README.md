@@ -4,8 +4,6 @@
 
 🖥  I’m currently studying a Bachelors in Business Analytics! 
 
-🤝🏼  I’m looking to collaborate on projects that involve mobile development. 
-
 📫. Do feel free to reach me yjzhou00@gmail.com!
 <!---
 hiimyj/hiimyj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
