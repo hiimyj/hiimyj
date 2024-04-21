@@ -4,7 +4,7 @@
 
 🖥  I’m currently studying a Bachelors in Business Analytics! 
 
-📫. Do feel free to reach me yjzhou00@gmail.com!
+📫  Do feel free to reach me yjzhou00@gmail.com!
 <!---
 hiimyj/hiimyj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
